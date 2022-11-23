@@ -1,5 +1,10 @@
 selenium-cucumber-java
 =================
+FIXES:
+1. cucumber-7.8.1, selenium-3,
+2. pom cleaned up;
+3. removing methods.jar dependency pom.xml:74
+
 
 selenium-cucumber : Automation Testing Using Java
 
